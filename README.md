@@ -1,5 +1,5 @@
 # DSA Interview Questions Bank
-
+<img src="https://github.com/Marvel999/DSA-Interview-Questions-Bank-/blob/main/hacktoberfest2021.jpg?raw=true" alt="Hacktoberfest 2021">
 This repository will help you and other upcoming developer during interview preparation of DSA. If you want to contribute in this repository "Most Welcome". If you will contribute in october then you will get swag(hacktoberfest2021).
 
 ## EVENT DETAILS:
