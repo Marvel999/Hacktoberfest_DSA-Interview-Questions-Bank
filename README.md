@@ -1,6 +1,6 @@
 # DSA Interview Questions Bank
-<img src="https://github.com/Marvel999/DSA-Interview-Questions-Bank-/blob/main/hacktoberfest2021.jpg?raw=true" alt="Hacktoberfest 2021">
-This repository will help you and other upcoming developer during interview preparation of DSA. If you want to contribute in this repository "Most Welcome". If you will contribute in october then you will get swag(hacktoberfest2021).👕
+<img src="https://github.com/Marvel999/Hacktoberfest_Android_Compose_Template/raw/master/ReadmeFileImages/HackFest22.jpg?raw=true" alt="Hacktoberfest 2022">
+This repository will help you and other upcoming developer during interview preparation of DSA. If you want to contribute in this repository "Most Welcome". If you will contribute in october then you will get swag(hacktoberfest2022).👕
 
 ## EVENT DETAILS:
 
@@ -14,6 +14,7 @@ To know more about the event, <a href="https://www.youtube.com/watch?v=MzpOQSJxH
 ## Contribution Guidline
 1. Check question you to do in this sheet it should not already done.
     https://docs.google.com/spreadsheets/d/1xEBOf5MZptg-aksbWuSwiUPq_weRdIj6xDchPew0Z7E/edit?usp=sharing
+2. If that quiestion is not into sheet Please add into it and start working.
 2. Please solve question In Language(C++ Or JAVA).
 3. Please put question solution in dedicated folder of Data Structure(If not persent then please make then put into that folder).
 4. While making PR please check program should not have any compliation or ogical error, put comments if required.
@@ -22,6 +23,7 @@ To know more about the event, <a href="https://www.youtube.com/watch?v=MzpOQSJxH
 * Your name
 * Github profile link
 * Question URL(Only From Leetcode)
+* Small Question description
 **/
 
 ## How to make PR
